@@ -1,0 +1,16 @@
+{
+    "name": "com.putao.shaderBuiltinToURP",
+    "version": "0.0.1",
+    "displayName": "ShaderBuiltinToURP对照表",
+    "description": "BuiltinToURP的shader对照表",
+    "unity": "2019.1",
+    "keywords": [
+        "shader",
+        "BuiltIn",
+        "URP"
+    ],
+    "author": {
+        "name": "putao",
+        "email": "yuziyi371@gmail.com"
+    }
+}
